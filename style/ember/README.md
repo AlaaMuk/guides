@@ -2,7 +2,7 @@ Ember
 =====
 
 * Don't put a space between the opening handlebars braces and the variable.
-* Don't use {{partial}} helper. Use a component with only a template.
+* Prefer components over partials.
 
 Ember-Data
 ----------
